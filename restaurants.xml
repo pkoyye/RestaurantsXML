@@ -1,0 +1,44 @@
+<?xml version='1.0'?>
+
+<restaurants>
+	<restaurant delivery = "Y">
+		<name>Chico's Tacos</name>
+		<contact>
+			<phone>9286807010</phone>
+			<email>contact@chicostacos.com</email>
+		</contact>
+		<website>https://www.chicostacoslhc.com/</website>
+	</restaurant>	
+	<restaurant delivery = "Y">
+		<name>Four Clovers Restaurant</name>
+		<contact>
+			<phone>9284532200</phone>
+			<email>contact@fourclovers.com</email>
+		</contact>
+		<website>https://www.fourclovers.irish/</website>
+	</restaurant>
+	<restaurant delivery = "Y">
+		<name>Culver's</name>
+		<contact>
+			<phone>9287336192</phone>
+			<email>contact@culvers.com</email>
+		</contact>
+		<website>https://www.culvers.com/restaurants/lake-havasu-city-az-countryshire-ave</website>
+	</restaurant>
+	<restaurant delivery = "Y">
+		<name>Black Bear Diner</name>
+		<contact>
+			<phone>9288552013</phone>
+			<email>contact@blackbeardiner.com</email>
+		</contact>
+		<website>https://blackbeardiner.com/location/lake-havasu-city/</website>
+	</restaurant>
+	<restaurant delivery = "Y">
+		<name>Chili's Grill &amp; Bar</name>
+		<contact>
+			<phone>9288545450</phone>
+			<email>contact@chilis.com</email>
+		</contact>
+		<website>https://www.chilis.com/locations/us/arizona/lake-havasu-city/lake-havasu</website>
+	</restaurant>
+</restaurants>
